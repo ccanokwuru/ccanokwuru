@@ -4,35 +4,24 @@ Hybrid and Cross Platform Developer
 
 ### Front-end Developer
   * Mobile
-      - Capacitor
-      - Flutter
-      - Quasar
+      - Capacitor, Flutter, Quasar
 
   * Desktop
-      - Neutralino
-      - Electron
+      - Neutralino,  Electron
 
   * Web
-      - Vue
-      - React
-      - Solid
-      - Svelte
+      - Vue, React, Solid, Svelte
       
 ### Back-end Developer
   * Node
-      - Fastify
-      - Express
+      - Fastify, Express
 
   * PHP
-      - Lumen
-      - CodeIgniter
-      - Laravel
+      - Lumen, CodeIgniter, Laravel, Fatfreeframework
   
 ### Full-stack Developer
   * PHP
-      - Laravel
-      - CodeIgniter
+      - Laravel, CodeIgniter
 
   * JS
-      - Nuxt
-      - Next
+      - Nuxt, Next
